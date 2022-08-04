@@ -52,3 +52,11 @@ Once you cloned the repository, you just need to install dependencies via `compo
 | 98     	| 98      |
 | 99     	| Fizz    |
 | 100    	| Buzz    |
+
+## Note aggiuntive
+
+- Ho incluso il file .env così da avere una configurazione funzionante
+- Montare la macchina con Sail
+- Esecuzione del test con "php artisan test"
+- Visualizzazione del output richiesto in formato json su index page
+
