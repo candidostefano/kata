@@ -1,0 +1,2 @@
+# kata
+Development exercise
